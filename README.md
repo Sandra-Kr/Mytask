@@ -11,3 +11,5 @@ krugalauza
 change 3 
 
 33
+jaunais
+uzdevums
