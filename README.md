@@ -13,3 +13,7 @@ change 3
 33
 jaunais
 uzdevums
+
+git izmainas
+
+nauris
